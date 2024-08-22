@@ -1,1 +1,5 @@
+# Dependencias comunes
 pywifi==1.1.12
+
+# Dependencias especificas de Windows
+comptypes; sys_platform=='win32'
